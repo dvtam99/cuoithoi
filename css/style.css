@@ -15,15 +15,15 @@ body {
 }
 
 .section-bg-affect:nth-child(even) {
-  background-color: #f9f9f9;
+  background-color: #FEEBE9;
 }
 
 .story-section .timeline-card::before {
-  border-color: #474747;
+  border-color: #E74C3C;
 }
 
 .story-section .timeline .title::before {
-  border-color: #474747;
+  border-color: #E74C3C;
 }
 
 .story-section .timeline-1 li {
@@ -37,7 +37,7 @@ body {
 
 .donate-section .donate-box .donate-card {
   width: 100%;
-  border: 1px dashed #474747;
+  border: 1px dashed #E74C3C;
 }
 
 .donate-section .donate-box .donate-card p:last-child {
@@ -186,7 +186,7 @@ body {
 
 .donate-box .donate-card .qr-code-image {
   max-width: 150px;
-  border: 1px solid #ccc;
+  border: 1px solid #FEF7F6;
   padding: 3px;
   margin: auto;
   display: block;
@@ -283,7 +283,7 @@ header .navbar-brand {
   height: 1px;
   bottom: 0;
   left: 0;
-  border: 1px solid #474747;
+  border: 1px solid #E74C3C;
 }
 
 .offcanvas-menu .nav-link {
@@ -295,7 +295,7 @@ header .navbar-brand {
   font-family: 'Dancing Script', cursive;
   letter-spacing: 1px;
   font-size: 2.8rem;
-  color: #474747;
+  color: #E74C3C;
 }
 
 .section-sub-title {
@@ -375,7 +375,7 @@ header .navbar-brand {
 }
 
 .main_area .wedding_area {
-  color: #474747;
+  color: #E74C3C;
   font-size: 1.6em;
   line-height: 50px;
   letter-spacing: 3px;
@@ -427,7 +427,7 @@ header .navbar-brand {
 /* weddingdate-section */
 .weddingdate-section .mini_calendar .calendar-month,
 .weddingdate-section .mini_calendar table th {
-  color: #474747;
+  color: #E74C3C;
 }
 
 .mini_calendar>.mini_calendar {
@@ -441,7 +441,7 @@ header .navbar-brand {
 }
 
 .weddingdate-section #clock>div {
-  color: #474747;
+  color: #E74C3C;
 }
 
 .main_dday_wrapper .main_dday_icon {
@@ -479,7 +479,7 @@ header .navbar-brand {
 
 /* story-section */
 .story-section .timeline .title {
-  color: #474747;
+  color: #E74C3C;
 }
 
 .timeline-card .img-holder {
@@ -488,7 +488,7 @@ header .navbar-brand {
 }
 
 .invitation-couple {
-  color: #474747;
+  color: #E74C3C;
 }
 
 .invitation-section {
@@ -623,25 +623,25 @@ header .navbar-brand {
 
 .people-section a,
 .couple-section a {
-  color: #474747;
+  color: #E74C3C;
   display: inline-block;
 }
 
 /* wishes-section */
 .wish-box {
-  border-color: #474747;
+  border-color: #E74C3C;
 }
 
 .wishes-section button {
   font-size: 14px;
-  background: #474747;
-  border-color: #474747;
+  background: #E74C3C;
+  border-color: #E74C3C;
 }
 
 /* footer-section */
 .footer-section .title {
   font-size: 2.6rem;
-  color: #474747;
+  color: #E74C3C;
 }
 
 @media (max-width: 375px) {
